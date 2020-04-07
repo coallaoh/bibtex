@@ -1,4 +1,4 @@
-@inproceedings{orekondy18gradient,
+@inproceedings{orekondy19neuripsfl,
     TITLE = {Gradient-Leaks: Understanding and Controlling Deanonymization in Federated Learning},
     AUTHOR = {Orekondy, Tribhuvanesh and Oh, Seong Joon and Zhang, Yang and Schiele, Bernt and Fritz, Mario},
     YEAR = {2019},
