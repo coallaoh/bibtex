@@ -1,6 +1,6 @@
-@article{tribhu2018link,
-title = {Understanding and Controlling User Linkability in Decentralized Learning},
-author = {Orekondy, Tribhuvanesh and Oh, Seong Joon and Schiele, Bernt and Fritz, Mario},
-year = {2018},
-journal = {arXiv},
+@inproceedings{orekondy18gradient,
+    TITLE = {Gradient-Leaks: Understanding and Controlling Deanonymization in Federated Learning},
+    AUTHOR = {Orekondy, Tribhuvanesh and Oh, Seong Joon and Zhang, Yang and Schiele, Bernt and Fritz, Mario},
+    YEAR = {2019},
+    BOOKTITLE = {NeurIPS Workshop on Federated Learning for Data Privacy and Confidentiality},
 }
