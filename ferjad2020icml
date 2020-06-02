@@ -1,6 +1,6 @@
-@article{ferjad2020ganeval,
+@inproceedings{ferjad2020icml,
 title = {Reliable Fidelity and Diversity Metrics for Generative Models},
 author = {Naeem, Muhammad Ferjad and Oh, Seong Joon and Uh, Youngjung and Choi, Yunjey and Yoo, Jaejun},
 year = {2020},
-journal = {arXiv},
+booktitle = {International Conference on Machine Learning},
 }
